@@ -1,4 +1,5 @@
-SUP! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Martim Glória =========================================================================================  I’m not really a coder, but I love exploring technology in all its forms.  
+SUP! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Martim Glória ========================================================================================= 
+I’m not really a coder, but I love exploring technology in all its forms.  
  From building and tweaking PCs to running homelab servers and experimenting with Linux, I enjoy pushing hardware and software just to see what’s possible. I’m always trying out new ideas, testing unusual setups, and learning by breaking things (and, when everything goes as planned, fixing them again). 
 * 🌍  I'm based in Portugal * 💬
 
